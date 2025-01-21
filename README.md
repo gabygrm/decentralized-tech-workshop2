@@ -103,8 +103,6 @@ Or, if you'd rather use a package manager, check this [list of third-party packa
 
 ##### Windows
 
-[Official documentation](https://docs.ipfs.tech/install/command-line/)
-
 1. Go to the [IPFS Desktop downloads page](https://github.com/ipfs/ipfs-desktop/releases)
 2. Find the link ending in `.exe` for the latest version of IPFS Desktop:
 
@@ -281,6 +279,8 @@ For installation instructions for your operating system, select the appropriate 
 ::: tab windows id="install-kubo-windows"
 
 ###### Windows
+
+[Official documentation](https://docs.ipfs.tech/install/command-line/)
 
 1. Download the Windows binary from [`dist.ipfs.tech`](https://dist.ipfs.tech/#kubo).
 
